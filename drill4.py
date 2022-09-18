@@ -21,7 +21,7 @@ turtle.forward(500)
 turtle.penup()
 turtle.goto(0, 400)
 turtle.pendown()
-turtle.forward(500)
+turtle.forward(500) 
 
 turtle.penup()
 turtle.goto(0, 500)
@@ -59,6 +59,7 @@ turtle.penup()
 turtle.goto(500, 0)
 turtle.pendown()
 turtle.forward(500)
+
 
 
 
